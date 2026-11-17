@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="8tj6GJJt5bYAR05eWR4U">
-    <mxGraphModel dx="3538" dy="3069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2068" dy="2039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
         <mxCell id="t5IPs34NBetxqOZ6guli-50" edge="1" parent="1" source="HFWRGHaxk6OuiAbEsFl5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="t5IPs34NBetxqOZ6guli-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HFWRGHaxk6OuiAbEsFl5-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Javier SLAM" vertex="1">
+        <mxCell id="HFWRGHaxk6OuiAbEsFl5-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SLAM" vertex="1">
           <mxGeometry height="60" width="120" x="-190" y="380" as="geometry" />
         </mxCell>
         <mxCell id="t5IPs34NBetxqOZ6guli-57" edge="1" parent="1" source="HFWRGHaxk6OuiAbEsFl5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=0;" target="t5IPs34NBetxqOZ6guli-55">
@@ -59,19 +59,19 @@
         <mxCell id="t5IPs34NBetxqOZ6guli-58" edge="1" parent="1" source="HFWRGHaxk6OuiAbEsFl5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=0;" target="t5IPs34NBetxqOZ6guli-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HFWRGHaxk6OuiAbEsFl5-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Leonardo&lt;div&gt;Target + Obstacles&lt;/div&gt;" vertex="1">
+        <mxCell id="HFWRGHaxk6OuiAbEsFl5-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Target + Obstacles&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="294" y="600" as="geometry" />
         </mxCell>
         <mxCell id="t5IPs34NBetxqOZ6guli-79" edge="1" parent="1" source="HFWRGHaxk6OuiAbEsFl5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;curved=0;" target="t5IPs34NBetxqOZ6guli-77">
           <mxGeometry relative="1" x="0.4286" as="geometry" />
         </mxCell>
-        <mxCell id="HFWRGHaxk6OuiAbEsFl5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Marco&lt;div&gt;Remote Operation&lt;/div&gt;" vertex="1">
+        <mxCell id="HFWRGHaxk6OuiAbEsFl5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Remote Operation&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="670" y="640" as="geometry" />
         </mxCell>
         <mxCell id="t5IPs34NBetxqOZ6guli-75" edge="1" parent="1" source="HFWRGHaxk6OuiAbEsFl5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="t5IPs34NBetxqOZ6guli-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HFWRGHaxk6OuiAbEsFl5-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Leonardo&lt;div&gt;Autonomous Navigation&lt;/div&gt;" vertex="1">
+        <mxCell id="HFWRGHaxk6OuiAbEsFl5-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Autonomous Navigation&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="90" y="860" as="geometry" />
         </mxCell>
         <mxCell id="t5IPs34NBetxqOZ6guli-53" edge="1" parent="1" source="HFWRGHaxk6OuiAbEsFl5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="t5IPs34NBetxqOZ6guli-52">
